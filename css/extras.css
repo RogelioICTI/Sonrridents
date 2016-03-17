@@ -1,0 +1,101 @@
+/*FOOTER*/
+
+.division-footer{
+    background-color: #F2F2F2;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.list-footer{
+    color: #BFBFBF;
+    list-style-type: none;
+}
+
+/*Ajuste de Imagenes*/
+.icono-servicios{
+    max-width: 120px;
+}
+
+.logo-medio{
+    max-height: 110px;
+}
+
+.seguir-redes{
+    max-height: 70px;
+}
+
+/*Espacios y Fondos*/
+.division-fondoanimado-azul{
+    background: url(../img/animado_azul.png);
+}
+
+.div-grisclaro{
+    background-color: #F2F2F2;
+}
+
+.fondo-azulfuerte{
+    background-color: #2B90F5;
+}
+.padding-topbot-15{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.padding-topbot-20{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.margin-topbot-15{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+/*Fuentes Extras*/
+.more-black{
+    font-weight: bold;
+    color: #192C51;
+}
+
+.green-white{
+    font-weight: 900;
+    color: #008800;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.info-header{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.titulo-div-azul{
+    color: #97CFF5;
+    font-size: 36px;
+    vertical-align: middle;
+    padding-right: 15px;
+}
+
+.titulo-servicio{
+    color: #4E4F51;
+    font-weight: 600;
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+.fs-32{
+    font-size: 32px;
+}
+
+
+@media (max-width: 768px) {
+    .titulo-div-azul{
+        font-size: 28px;
+    }
+    .fs-32{
+        font-size: 28px;
+    }
+}
